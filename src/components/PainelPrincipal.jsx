@@ -1,0 +1,1 @@
+export default function PainelPrincipal() { return (<div>Painel Principal</div>); }
